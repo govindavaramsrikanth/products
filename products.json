@@ -1,42 +1,45 @@
-[
-  {
-    "title": "Premium Fruit Bowl Morning Pack",
-    "time": "7 - 12 AM",
-    "originalPrice": "3000",
-    "offerPrice": "2649/-",
-    "image": "https://media.istockphoto.com/id/876844752/photo/organic-fruit-salad.jpg?s=2048x2048&w=is&k=20&c=WjDVdtAcFp6Qa2IwyhrG2Srsbd6IzF7_rIV2XGWZ5d8=",
-    "description": "Nuts, Sprouts, Boiled Veggies [Corn, Sweet Potato, Meal maker], Boiled Beans, Carrot, Beetroot, Cucumber, Four varieties of Seasonal fruits, Chia seeds, Curd.Optional (choose any two): Broccoli, Blueberries, Litchi, Eggs."
-  },
-  {
-    "title": "Diabetic Dinner Pack",
-    "time": "6 - 9 PM",
-    "originalPrice": "3000",
-    "offerPrice": "2649/-",
-    "image": "https://media.istockphoto.com/id/465951589/photo/typical-south-indian-variety-lunch.jpg?s=2048x2048&w=is&k=20&c=Pcn6XixGtbV6bnE8OhbsRwqyJ3lvS50InxNCiHhxoM4=",
-    "description": "Jowar Roti's, Millets Upma, Ragi Sangati, One Curry, One Fruit, One Salad."
-  },
-  {
-    "title": "Standard Fruit Bowl Morning Pack",
-    "time": "7 - 9 AM",
-    "originalPrice": "2250",
-    "offerPrice": "1999/-",
-    "image": "https://media.istockphoto.com/id/1314392419/photo/indian-fruit-salad-masala-chaat-with-fresh-fruits-and-spices.jpg?s=2048x2048&w=is&k=20&c=fREFc22pVfVf-r6_WmBGbmsjLlwFnTLtshdKIQiVrmc=",
-    "description": "Nuts, Sprouts, Boiled Veggies [Corn, Sweet Potato, Meal maker], Boiled Beans, Carrot, Beetroot, Cucumber, Four varieties of Seasonal fruits."
-  },
-  {
-    "title": "Healthy Juice Pack",
-    "time": "7 - 9 AM or 6 - 9 PM",
-    "originalPrice": "1500",
-    "offerPrice": "1275/-",
-    "image": "https://media.istockphoto.com/id/540519504/photo/fresh-smoothies-in-glass.jpg?s=2048x2048&w=is&k=20&c=XYflTeZf8UUOtrPkBoxful9LjuRVQPF5F5XF0y9DnGo=",
-    "description": "One shot per day from: Ragi Malt, Buttermilk, Wheatgrass Juice, Beetroot Juice, Carrot Juice, Cucumber Juice, Bitter Gourd Juice."
-  },
-  {
-    "title": "Home-Made Batter Pack",
-    "time": "SUN, TUE, THU - Evenings",
-    "originalPrice": "1000",
-    "offerPrice": "859/-",
-    "image": "https://media.istockphoto.com/id/521694234/photo/latvian-national-solstice-caraway-cheese-or-johns-cheese.jpg?s=2048x2048&w=is&k=20&c=vfIZZksLWKV_kJ6cHf2t0GhUf9PJjj7YtQCemXwuw40=",
-    "description": "Includes: Idly, Dosa, Pesarattu batter."
-  }
-]
+{
+  "mobileNo": "9398837428",
+  "products": [
+    {
+      "title": "Premium Fruit Bowl Morning Pack",
+      "time": "7 - 12 AM",
+      "originalPrice": "3000",
+      "offerPrice": "2649/-",
+      "image": "https://media.istockphoto.com/id/876844752/photo/organic-fruit-salad.jpg?s=2048x2048&w=is&k=20&c=WjDVdtAcFp6Qa2IwyhrG2Srsbd6IzF7_rIV2XGWZ5d8=",
+      "description": "Nuts, Sprouts, Boiled Veggies [Corn, Sweet Potato, Meal maker], Boiled Beans, Carrot, Beetroot, Cucumber, Four varieties of Seasonal fruits, Chia seeds, Curd.Optional (choose any two): Broccoli, Blueberries, Litchi, Eggs."
+    },
+    {
+      "title": "Diabetic Dinner Pack",
+      "time": "6 - 9 PM",
+      "originalPrice": "3000",
+      "offerPrice": "2649/-",
+      "image": "https://media.istockphoto.com/id/465951589/photo/typical-south-indian-variety-lunch.jpg?s=2048x2048&w=is&k=20&c=Pcn6XixGtbV6bnE8OhbsRwqyJ3lvS50InxNCiHhxoM4=",
+      "description": "Jowar Roti's, Millets Upma, Ragi Sangati, One Curry, One Fruit, One Salad."
+    },
+    {
+      "title": "Standard Fruit Bowl Morning Pack",
+      "time": "7 - 9 AM",
+      "originalPrice": "2250",
+      "offerPrice": "1999/-",
+      "image": "https://media.istockphoto.com/id/1314392419/photo/indian-fruit-salad-masala-chaat-with-fresh-fruits-and-spices.jpg?s=2048x2048&w=is&k=20&c=fREFc22pVfVf-r6_WmBGbmsjLlwFnTLtshdKIQiVrmc=",
+      "description": "Nuts, Sprouts, Boiled Veggies [Corn, Sweet Potato, Meal maker], Boiled Beans, Carrot, Beetroot, Cucumber, Four varieties of Seasonal fruits."
+    },
+    {
+      "title": "Healthy Juice Pack",
+      "time": "7 - 9 AM or 6 - 9 PM",
+      "originalPrice": "1500",
+      "offerPrice": "1275/-",
+      "image": "https://media.istockphoto.com/id/540519504/photo/fresh-smoothies-in-glass.jpg?s=2048x2048&w=is&k=20&c=XYflTeZf8UUOtrPkBoxful9LjuRVQPF5F5XF0y9DnGo=",
+      "description": "One shot per day from: Ragi Malt, Buttermilk, Wheatgrass Juice, Beetroot Juice, Carrot Juice, Cucumber Juice, Bitter Gourd Juice."
+    },
+    {
+      "title": "Home-Made Batter Pack",
+      "time": "SUN, TUE, THU - Evenings",
+      "originalPrice": "1000",
+      "offerPrice": "859/-",
+      "image": "https://media.istockphoto.com/id/521694234/photo/latvian-national-solstice-caraway-cheese-or-johns-cheese.jpg?s=2048x2048&w=is&k=20&c=vfIZZksLWKV_kJ6cHf2t0GhUf9PJjj7YtQCemXwuw40=",
+      "description": "Includes: Idly, Dosa, Pesarattu batter."
+    }
+  ]
+}
